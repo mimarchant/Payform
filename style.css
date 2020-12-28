@@ -1,0 +1,44 @@
+body {
+    background: white;
+}
+.caja1{
+    background: red;
+    width: 400px;
+    height: 200px;
+    border-radius: 10px;
+}
+.caja2{
+    background: blue;
+    width: 400px;
+    height: 200px;
+    border-radius: 10px;
+}
+.caja3{
+    
+    background: yellow;
+    width: 400px;
+    height: 100px;
+    border-radius: 10px;
+}
+.caja4{
+    background: gray;
+    width: 400px;
+    height: 100px;
+    border-radius: 10px;
+}
+.caja5{
+    background: orange;
+    width: 400px;
+    height: 100px;
+    border-radius: 10px;
+}
+.caja6{
+    background: black;
+    width: 400px;
+    height: 100px;
+    border-radius: 10px;
+}
+.main-box{
+    display: flex;
+    justify-content: center;
+}
